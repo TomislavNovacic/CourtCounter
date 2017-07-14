@@ -6,4 +6,16 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">#FF9800</item>
     </style>
+
+    <style name="Counter" parent="Theme.AppCompat.Light">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginRight">24dp</item>
+        <item name="android:layout_marginLeft">24dp</item>
+    </style>
+
+    <style name="TextViewMargins" parent="Theme.AppCompat.Light">
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+
+    </style>
 </resources>
